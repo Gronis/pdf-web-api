@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+    width: 100%
+}
+.code {
+    padding: 6px;
+    background-color: #F7F7F7;
+    width: auto;
+    font-family: monospace;
+}

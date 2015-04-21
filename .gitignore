@@ -1,0 +1,7 @@
+#Mac files
+.DS_Store
+
+#generated files
+target/*
+.idea/*
+*.iml
